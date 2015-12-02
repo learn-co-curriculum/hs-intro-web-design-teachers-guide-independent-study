@@ -12,3 +12,5 @@ Start blogging about your experience. Writing about what you are learning here i
   * http://fr4nsc0mput3r.tumblr.com/
 
 
+
+<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-independent-study' data-visibility='hidden'>View this lesson on Learn.co</a>

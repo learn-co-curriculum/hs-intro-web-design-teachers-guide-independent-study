@@ -13,4 +13,4 @@ Start blogging about your experience. Writing about what you are learning here i
 
 
 
-<a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-independent-study' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-intro-web-design-teachers-guide-independent-study' title='Intro:'>Intro:</a> on Learn.co and start learning to code for free.</p>
